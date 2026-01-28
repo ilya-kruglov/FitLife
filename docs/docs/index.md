@@ -15,3 +15,14 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+# FitLife Documentation
+
+Welcome to FitLife system documentation.
+
+## Navigation
+
+- [Context Diagram](architecture/context.md)
+- [Container Diagram](architecture/container.md)
+- [Component Diagram](architecture/component.md)
+- [Code Diagram](architecture/code.md)
